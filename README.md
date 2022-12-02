@@ -8,7 +8,7 @@ Actuamente me encuentro cursando una licenciatura en Matematicas  📊 .
 
 
 ### Lenguajes y herramientas:
-<img align="left" alt="python" width="26px" src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
 <img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/googleanalytics.svg" />
 <img align="left" alt="Google Spreadsheet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/googlesheets.svg" />
