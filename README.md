@@ -10,7 +10,7 @@ Actuamente me encuentro cursando una licenciatura en Matematicas  📊 .
 ### Lenguajes y herramientas:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />
+<img align="left" alt="Tableau" width="100px" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />
 <img align="left" alt="Google Spreadsheet" width="26px" src="https://symbols.getvecta.com/stencil_3/16_google-sheets.fc6f8c270c.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
