@@ -8,7 +8,7 @@ Actuamente me encuentro cursando una licenciatura en Matematicas  📊 .
 
 
 ### Lenguajes y herramientas:
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
 <img align="left" alt="R" width="100px" src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" />
 <img align="left" alt="Tableau" width="100px" src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" />
