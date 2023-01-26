@@ -4,7 +4,7 @@ Hola! mi nombre es Christian 😃
 
 👅 Lenguajes de programación que manejo: R (RStudio), SQL, MySQL , Python 🐍(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) Herramientas de BI: Tableau
 
-Actuamente me encuentro cursando una licenciatura en Matematicas  📊 .
+Actuamente me encuentro cursando una Ingenieria en desarrollo de Software  📊 .
 
 
 ### Lenguajes y herramientas:
