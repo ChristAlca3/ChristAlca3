@@ -1,13 +1,13 @@
-Hola! mi nombre es Christian 😃
+Hello! my name is Christian 😃
 
-🔎 Algo sobre mi: Soy Data Analyst y estoy en formación para convertirme en Data Scientist. con mi carrera previa de en Negocios Internacionales🌏, puedo analizar datos desde una enfoque comercial internacional, utilizando diferentes herramientas para procesar y visualizar datos.
+🔎 Something about me: I am a Data Analyst and I am in training to become a Data Scientist. With my previous degree in International Business🌏, I can analyze data from an international business approach, using different tools to process and visualize data.
 
-👅 Lenguajes de programación que manejo: R (RStudio), SQL, MySQL , Python 🐍(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) Herramientas de BI: Tableau
+👅 Programming languages that I use: R (RStudio), SQL, MySQL, Python 🐍 (with libraries for data analysis: Matplotlib, Seaborn, Pandas, NumPy) BI tools: Tableau
 
-Actuamente me encuentro cursando una Ingenieria en desarrollo de Software  📊 .
+I am currently studying a Software Development Engineering 📊 .
 
 
-### Lenguajes y herramientas:
+### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
 <img align="left" alt="Mysql" width="60px" src="https://anthoncode.com/wp-content/uploads/2019/01/mysql-logo-png.png" />
